@@ -3,6 +3,7 @@
 
 # 사용법
 프로젝트 폴더를 Clone 한 뒤에 폴더 내의 Cola.uproject 실행
+언리얼 버전은 4.25.3 사용
 
 # 업데이트 할 수 있는 폴더
 Content/Cola/  
