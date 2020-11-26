@@ -23,7 +23,8 @@ Content/Blueprints -> 그 외의 애매한 BP들
 나머지는 자유
 
 # 블루프린트 설계
-https://docs.google.com/spreadsheets/d/1ASU2bBR3Daxe6wdlbIVg-6-eYdfy2iQJAY_D1jsFp1k/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1ASU2bBR3Daxe6wdlbIVg-6-eYdfy2iQJAY_D1jsFp1k/edit?usp=sharing  
+언제든 수정 환영
 
 # 사용중인 Asset:  
 Paragon: Crunch,  
