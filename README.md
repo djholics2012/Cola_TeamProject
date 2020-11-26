@@ -22,10 +22,12 @@ Content/Blueprints -> 그 외의 애매한 BP들
 자기가 만든 파일명 뒤에 \_SJ \_DJ \_HSW 처럼 이니셜 붙이기(파일명 중복 방지)  
 나머지는 자유
 
-# 커밋 메세지 작성은
-한글로 하는게 편할듯
+# 블루프린트 설계
+https://docs.google.com/spreadsheets/d/1ASU2bBR3Daxe6wdlbIVg-6-eYdfy2iQJAY_D1jsFp1k/edit?usp=sharing
 
-# 용량이 큰 Asset은
+# 사용중인 Asset:  
+Paragon: Crunch,  
+Paragon: Minions
+  
 용량이 큰 마켓플레이스 Asset은 여기 올리지않고  
 각자 로컬 저장소에 받아서 사용하기  
-각 파일 용량이 100MB 이하면 상관없음  
